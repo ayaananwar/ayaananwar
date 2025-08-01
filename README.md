@@ -11,3 +11,5 @@ I'm Ayaan Anwar — an aspiring Data Analyst with a passion for solving real-wor
 🔭 I'm currently working on beginner-friendly projects to practice and showcase my data skills.
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ayaananwar)
+
+# assignment 2
